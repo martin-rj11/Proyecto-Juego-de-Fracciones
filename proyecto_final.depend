@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1611177578 source:c:\users\marti\onedrive\escritorio\proyecto_final\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"mouse.h"
+	<windows.h>
+
+1557854777 c:\users\marti\onedrive\escritorio\proyecto_final\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1558485376 c:\users\marti\onedrive\escritorio\proyecto_final\mouse.h
+
+1611110664 source:c:\users\marti\onedrive\escritorio\proyecto_final\recurso.rc
+
+1611110664 source:c:\users\marti\onedrive - instituto politecnico nacional\copia de seguridad\escuela\2do semestre\proyecto_final\recurso.rc
+
